@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 25em; border-bottom: none;">
+<div align="center" style="font-size: 50; border-bottom: none;">
   <b>Hi , I'm AGUNG </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
