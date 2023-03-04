@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu7n&color=blueviolet" alt="7oSkaaa" height=20px width=130px/>
 </p>
-
+<br>
 
 <div>
 <img align="right" width="350" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/animeA.jpeg"/>
