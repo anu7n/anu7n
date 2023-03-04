@@ -20,7 +20,7 @@
 
 <div>
 <img align="right" width="350" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/animeA.jpeg"/>
-<h2> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> / about me /</h2>
+<h2> <picture><img src = "https://github.com/anu7n/anu7n/blob/main/about_me.gif" width = 50px></picture> / about me /</h2>
   
   
 - ⭐ currently working as **data scientist**
