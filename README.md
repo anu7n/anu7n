@@ -8,7 +8,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/animeA.jpeg"/>
+<img align="right" width="350" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/animeA.jpeg"/>
 
 <h2> / about me /</h2>
   
