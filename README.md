@@ -47,7 +47,7 @@
   <img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt = "tf" />
   <img src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt = "kr" />
   <img src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = "sk" /><br>
-  <img src = "https://img.shields.io/badge/Others DS Frameworks-%230C55A5.svg?style=for-the-badge&logo=&logoColor=%white" alt = "ps" />
+  <img src = "https://img.shields.io/badge/Other Data Science Tools & Frameworks-%230C55A5.svg?style=for-the-badge&logo=&logoColor=%white" alt = "ps" />
 
 
 <br>
