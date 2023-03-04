@@ -1,7 +1,7 @@
  <h1 align="center" style="display: inline-block;">
   <b>Hi , I'm AGUNG </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <p align="center" dir="auto"></p>
+  <p align="center" dir="auto">...</p>
 </h1>
 <a align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
