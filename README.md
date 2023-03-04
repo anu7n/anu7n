@@ -23,7 +23,7 @@
 <h2> <picture><img src = "https://github.com/anu7n/anu7n/blob/main/about_me.gif" width = 50px></picture> / about me /</h2>
   
   
-- ⭐ currently working as **data scientist**
+- ⭐ currently working as **professional data scientist**
 - 💀 mostly working on **private repositories** and **company confidential projects**
 - 👾 a **student** working his way around things
 - 🏆 **winner** of several data science competitions
