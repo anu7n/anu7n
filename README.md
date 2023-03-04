@@ -1,7 +1,8 @@
-<h1 align="center" style="border-bottom: 0.5px solid red;>
-  <a class="anchorjs-link"><b>Hi , I'm AGUNG </b></a>
+<div align="center" style="font-size: 2em; border-bottom: none;">
+  <b>Hi , I'm AGUNG </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+</div>
+                                                                                  
 <a align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </a>
