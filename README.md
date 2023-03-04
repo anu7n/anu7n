@@ -1,8 +1,4 @@
- .anchorjs-link {
-  display: none !Important;
-}
- 
- <h1 align="center" style="border-bottom: none !important;">
+<h1 align="center" style="border-bottom: none !important;">
   <a class="anchorjs-link"><b>Hi , I'm AGUNG </b></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
