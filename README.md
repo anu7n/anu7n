@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm AGUNG </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=200&color=B710F7&center=true&vCenter=true&width=436&lines=Hi!+;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;Data+Scientist%2C+;Active+Learner%2C;Researcher%2C;Love+to+learn+new+stuff+...+%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=250&color=B710F7&center=true&vCenter=true&width=500&height=75&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;a+Data+Scientist%2C+;an+Active+Learner%2C;a+Researcher%2C;Love+to+learn+new+stuff+...+%3C3" alt="Typing SVG" /></a>
 </p>
 
 
