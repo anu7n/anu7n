@@ -1,5 +1,5 @@
 <style>
-  .anchorjs-link {
+  anchorjs-link {
   display: none !Important;
 }
 </style>
