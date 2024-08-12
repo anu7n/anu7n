@@ -19,7 +19,7 @@
 <br>
 
 <div>
-<img align="right" width="350" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/animeA.jpeg"/>
+<img align="right" width="400" height="600" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/Dragonball.gif"/>
 <h2> <picture><img src = "https://github.com/anu7n/anu7n/blob/main/about_me.gif" width = 50px></picture> / about me /</h2>
   
   
@@ -52,7 +52,7 @@
 
 <br>
 <div align="right">
-<a href="https://www.pinterest.com/pin/723320390131991196/">Image by KHALD</a>
+<!--- <a href="https://www.pinterest.com/pin/723320390131991196/">Image by KHALD</a> -->
   </div>
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
