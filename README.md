@@ -32,8 +32,8 @@
 <br>
 <h3> 🔥 / github stats /</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anu7n&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anu7n&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="400" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
