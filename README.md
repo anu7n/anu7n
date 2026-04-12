@@ -23,8 +23,12 @@
 - 👾 a **student** working his way around things
 - 🏆 **winner** of several data science competitions
 
-**Details about me and my portfolio, visit** .... <a href="https://thenugraha.com"><img src="https://img.shields.io/badge/thenugraha.com-543DE0?style=plastic&logo=About.me&logoColor=white" alt="Portfolio" height=20px /></a>
-
+**Details about me and my portfolio, visit** .... 
+<br>
+<p align="center">
+<a href="https://thenugraha.com"><img src="https://img.shields.io/badge/thenugraha.com-543DE0?style=plastic&logo=About.me&logoColor=white" alt="Portfolio" width=200px /></a>
+<p align="center">
+  
 <br>
 
 <h3> 🔥 / github stats /</h3>
