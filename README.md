@@ -29,7 +29,7 @@
 
 <h3> 🔥 / github stats /</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anu7n&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="450px" height=700px />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anu7n&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="50%" />
 
 </div>
 
