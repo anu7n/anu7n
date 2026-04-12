@@ -14,7 +14,7 @@
 <br>
 
 <div>
-<img align="right" width="400" height="600" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/Dragonball.gif"/>
+<img align="right" width="400" height="620" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/Dragonball.gif"/>
 
 <h3> <picture><img src = "https://github.com/anu7n/anu7n/blob/main/about_me.gif" width = 50px></picture> / about me /</h3>
 
