@@ -4,17 +4,12 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2250&pause=300&color=B710F7&center=true&vCenter=true&width=500&height=75&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;a+Data+Scientist%2C+;an+Active+Learner%2C;a+Researcher%2C;Love+to+learn+new+stuff+...+%3C3" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu7n&color=blueviolet" alt="profile views" height=20px width=130px/>
 </p>
 <br>
 
 <div>
-<img align="right" width="400" height="650" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/Dragonball.gif"/>
+<img align="right" width="410" height="650" alt="Shimarin" src="https://github.com/anu7n/anu7n/blob/main/Dragonball.gif"/>
 
 <h3> <picture><img src = "https://github.com/anu7n/anu7n/blob/main/about_me.gif" width = 50px></picture> / about me /</h3>
 
@@ -23,13 +18,11 @@
 - 👾 a **student** working his way around things
 - 🏆 **winner** of several data science competitions
 
-**Details about me and my portfolio, visit** .... 
-<br>
+**Details about me and my portfolio, visit my open-world resume** .... 
 <p align="center">
-<a href="https://thenugraha.com"><img src="https://img.shields.io/badge/thenugraha.com-543DE0?style=plastic&logo=About.me&logoColor=white" alt="Portfolio" width=200px /></a>
+<a href="https://thenugraha.com"><img src="https://github.com/thenugraha/thenugraha/blob/main/thenugraha%20logo.png" alt="Portfolio" width=210px /></a>
 <p align="center">
   
-<br>
 <h3> 🔥 / github stats /</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anu7n&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="400" />
